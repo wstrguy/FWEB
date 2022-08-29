@@ -1,0 +1,134 @@
+.top-container{
+  background-color: #EAF6F6;
+  margin-top: 0;
+  padding-top: 100px;
+  position:relative;
+}
+body{
+  margin:0;
+  text-align:center;
+  font-family: 'Inter', sans-serif;
+  font-size: 100%;
+
+}
+
+h1{
+  color:#66bfbf;
+  margin-top: 0;
+  margin: 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 100px;
+}
+
+h2{
+  color:#66bfbf;
+  font-size: 2.5rem;
+  font-weight:normal;
+}
+h3{
+  color:#11999e;
+  font-weight:normal;
+}
+.pic{
+  height: 200px;
+  width: 200px;
+}
+.profile{
+ margin-top: 0;
+}
+hr{
+  margin-top: 40px;
+  width:80px;
+  border-top: 5px dotted #EAF6F6;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+}
+.btn{
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.btn:hover{
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.contact-me{
+  padding: 50px;
+  margin-bottom: 40px;
+  letter-spacing: 5px;
+  line-height: 30px;
+  margin: 0;
+}
+.middle-container{
+  background-color: #6FEDD6;
+  margin-bottom:0;
+
+}
+.bottom-container{
+  background-color: #66BFBF;
+  margin-top: 0;
+  padding-top: 50px;
+  position:relative;
+  line-height: 40px;
+  word-spacing: 30px;
+}
+.footer-link{
+  color: #11999E;
+  text-decoration: none;
+
+}
+.foot{
+  color:white;
+  font-size: 10px;
+  word-spacing: 0;
+  margin-bottom: 0;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  font-size: 15px;
+  line-height: 2;
+}
+.Skillset{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.Skillrow{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.cloud2{
+  position:absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.cloud1{
+  position: absolute;
+  right:300px;
+  top:50px;
+}
+.pro{
+  color:#66bfbf;
+  text-decoration: underline dotted red;
+}
